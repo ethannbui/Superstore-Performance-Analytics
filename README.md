@@ -2,7 +2,8 @@
 
 **Introduction**
 
-This project analyzes the SuperStore USA retail dataset (9,994 order records) to evaluate sales performance, customer behavior, product trends, and regional operations.
+This project analyzes the SuperStore USA retail dataset from Kaggle (9,994 order records) to evaluate sales performance, customer behavior, product trends, and regional operations.
+Link: https://www.kaggle.com/datasets/timchant/supstore-dataset-2019-2022/data
 
 The dataset contains real transaction records that support:
 
